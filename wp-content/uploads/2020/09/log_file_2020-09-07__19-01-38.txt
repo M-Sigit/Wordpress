@@ -1,0 +1,9 @@
+
+---Downloaded files---
+The import files for: University Zone Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://192.168.10.53
+Data file = /var/www/html/wordpress/wp-content/uploads/rara-demo-pack/university-zone-demo-content/content/universityzone.xml
+Widget file = /var/www/html/wordpress/wp-content/uploads/rara-demo-pack/university-zone-demo-content/content/universityzone.wie
+Customizer file = /var/www/html/wordpress/wp-content/uploads/rara-demo-pack/university-zone-demo-content/content/universityzone.dat

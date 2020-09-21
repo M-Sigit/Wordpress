@@ -1,0 +1,64 @@
+
+---Downloaded files---
+The import files for: University Zone Demo were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = http://192.168.10.53
+Data file = /var/www/html/wordpress/wp-content/uploads/rara-demo-pack/university-zone-demo-content/content/universityzone.xml
+Widget file = /var/www/html/wordpress/wp-content/uploads/rara-demo-pack/university-zone-demo-content/content/universityzone.wie
+Customizer file = /var/www/html/wordpress/wp-content/uploads/rara-demo-pack/university-zone-demo-content/content/universityzone.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+RARA: Recent Post - Recent Posts - Imported
+RARA: Social Links - Follow Us On - Imported
+Categories - Categories - Imported
+Meta - No Title - Imported
+Calendar - No Title - Imported
+
+Footer One : 
+
+Text - University Zone - Imported
+RARA: Social Links - Follow Us On - Imported
+
+Footer Two : 
+
+RARA: Recent Post - Recent activities - Imported
+
+Footer Three : 
+
+Categories - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+
